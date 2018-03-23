@@ -1,0 +1,2 @@
+export const GENERATE_TEST_LIST = 'GENERATE_TEST_LIST';
+export const KEY_INPUT = 'KEY_INPUT';
